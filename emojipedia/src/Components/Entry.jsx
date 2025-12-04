@@ -1,4 +1,4 @@
-export default function Card(props) {
+export default function Entry(props) {
   return (
 
     <div className="term">
